@@ -1,5 +1,6 @@
-Greetings, my friend! 👋,
-my name is Zven Wang and I am Software Developer based in Beijing.
+Greetings, my friend! 👋
+
+My name is Zven Wang and I am Software Developer based in Beijing.
 
 Developing software since 2011, went from Python to Ruby and React until landing on Elixir and a particular interested for distributed scalable 
 systems and computational logic.
