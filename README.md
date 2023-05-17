@@ -1,16 +1,16 @@
-### Hi there 👋
+Greetings, my friend! 👋,
+my name is Zven Wang and I am Software Developer based in Beijing.
 
-<!--
-**zven21/zven21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developing software since 2011, went from Python to Ruby and React until landing on Elixir and a particular interested for distributed scalable 
+systems and computational logic.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies I love:
+
+- EventSourcing and CQRS in Elixir
+- Expert systems
+- DSL and parsers built in Elixir/Erlang
+- Phoenix framework
+- Javascript and React
+- gRPC
+- Ruby
